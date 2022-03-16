@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "449059740394",
+    "project_id": "healthcard-93f88",
+    "storage_bucket": "healthcard-93f88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449059740394:android:230b5e16a31d509aca1593",
+        "android_client_info": {
+          "package_name": "com.gmoney.healthcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449059740394-cb5jrum7572bub8p668v5sfuh99g8idc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmoney.healthcard",
+            "certificate_hash": "092f820317a00d706a7ca0ae975369763e480e05"
+          }
+        },
+        {
+          "client_id": "449059740394-6ogg1hk78dvdip5754o41qcboaqkqcpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjlM9hbv0g62FjtM2LVW8wN_sZiC7wSXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449059740394-6ogg1hk78dvdip5754o41qcboaqkqcpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

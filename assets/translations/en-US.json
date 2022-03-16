@@ -1,0 +1,34 @@
+{
+  "title": "Hello",
+  "msg": "Hello {} in the {} world ",
+  "clickMe": "Click me",
+  "profile": {
+    "reset_password": {
+      "label":  "Reset Password",
+      "username": "Username",
+      "password": "password"
+    }
+  },
+  "clicked": {
+    "zero": "You clicked {} times!",
+    "one": "You clicked {} time!",
+    "two":"You clicked {} times!",
+    "few":"You clicked {} times!",
+    "many":"You clicked {} times!",
+    "other": "You clicked {} times!"
+  },
+  "gender":{
+    "male": "Hi man ;) ",
+    "female": "Hello girl :)",
+    "with_arg":{
+      "male": "Hi man ;) {}",
+      "female": "Hello girl :) {}"
+    }
+  },
+
+  "tutorialScreens":{
+    "one": "Instant Cash for your medical expenses in No-Cost EMI (0% interest) ",
+    "two": "Advance against your insurance policy for medical expenses",
+    "three": "Emergency cash in your bank account"
+  }
+}
